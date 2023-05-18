@@ -1,0 +1,11 @@
+#define GO_VIRT
+#include "martini_v3.0.0.itp"
+#include "ubq.itp"
+#include "martini_v3.0.0_solvents_v1.itp"
+
+[ system ]
+Title of the system in water
+
+[ molecules ]
+ubq    1
+W                4284

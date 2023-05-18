@@ -1,0 +1,13 @@
+#define GO_VIRT
+#include "martini_v3.0.0.itp"
+#include "lys.itp"
+#include "martini_v3.0.0_solvents_v1.itp"
+#include "martini_v3.0.0_ions_v1.itp"
+
+[ system ]
+Title of the system in water
+
+[ molecules ]
+lys    1
+W                6734
+CL 	8

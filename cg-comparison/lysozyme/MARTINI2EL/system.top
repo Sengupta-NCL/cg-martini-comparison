@@ -1,0 +1,13 @@
+#include "martini_v2.2.itp"
+
+#define RUBBER_BANDS
+#include "martini_v2.2_ions.itp"
+#include "molecule_0.itp"
+
+[ system ]
+Title of the system Elastic network in water
+
+[ molecules ]
+molecule_0    1
+W           5026
+CL               8

@@ -1,0 +1,10 @@
+
+#include "martini_v2.2.itp"
+#include "1ubiquitin.itp"
+
+[ system ]
+Title of the system in water
+
+[ molecules ]
+1UBQ    1
+W                4281

@@ -1,0 +1,9 @@
+####################################################################################################
+
+Each subdirectory of system contains further two directories corresponding to protein input files.
+Protein simulation trajectories from the last 10 ns are given in pdb format.
+Experimental dataset taken from SASBDB is given in .dat file.
+
+
+A script pepsi-saxs.sh contains the command to run SAXS preditions on simulation trajectories using 
+above two input files.
