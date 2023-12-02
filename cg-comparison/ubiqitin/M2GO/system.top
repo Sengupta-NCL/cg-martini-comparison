@@ -1,0 +1,10 @@
+#define GO_VIRT
+#include "martini_v2.2.itp"
+#include "ubq.itp"
+
+[ system ]
+Title of the system
+
+[ molecules ]
+ubq    1
+W	4261
